@@ -105,6 +105,29 @@ a {
 }
 .header-text {
     color: #666;
+
 }
+
+@media (max-width: 767px) {
+    .heading-box {
+        flex-direction: column-reverse;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
